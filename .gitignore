@@ -8,3 +8,12 @@ __pycache__/
 .last_checked
 .gitconfig
 .ipynb_checkpoints/
+.idea/.gitignore
+.idea/fastai__fastbook.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scala_compiler.xml
+.idea/UniappTool.xml
+.idea/vcs.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/codeStyles/Project.xml
